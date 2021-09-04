@@ -34,11 +34,11 @@ CREATE TABLE `country` (
   `population` INT(11) NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-INSERT INTO `country` VALUES ('AU','Australia',18886000);
-INSERT INTO `country` VALUES ('BR','Brazil',170115000);
-INSERT INTO `country` VALUES ('CA','Canada',1147000);
-INSERT INTO `country` VALUES ('CN','China',1277558000);
-INSERT INTO `country` VALUES ('DE','Germany',82164700);
+INSERT INTO `country` VALUES ('AU','Australia',23576458);
+INSERT INTO `country` VALUES ('BR','Brazil',205023764);
+INSERT INTO `country` VALUES ('CA','Canada',35692744);
+INSERT INTO `country` VALUES ('CN','China',1406994667);
+INSERT INTO `country` VALUES ('DE','Germany',79426091);
 INSERT INTO `country` VALUES ('FR','France',59225700);
 INSERT INTO `country` VALUES ('GB','United Kingdom',59623400);
 INSERT INTO `country` VALUES ('IN','India',1013662000);
